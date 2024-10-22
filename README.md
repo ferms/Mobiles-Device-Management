@@ -20,36 +20,36 @@ Asegúrate de tener instalados los siguientes programas:
 
 1. **Navega al directorio del frontend:**
 
-   ``bash
+   ```bash
    cd frontend
 
 2. **Instala las dependencias:** 
 
-``bash
-npm install
+   ```bash
+   npm install
 
 3. **Ejecuta la aplicación:** 
 
-``bash
-npm start
+   ```bash
+   cd start
 
 ### Backend
 
 1. **Navega al directorio del Backend:**
 
-   ``bash
+   ```bash
    cd backend
 
 2. **Instala las dependencias:** 
 
-``bash
-npm install
+   ```bash
+   npm install
 
 
 3. **Ejecuta la aplicación:** 
 
-``bash
-npm run dev
+   ```bash
+   npm run dev
 
 ### Opción 2: Usando Docker y Docker Compose
 
@@ -67,27 +67,27 @@ npm run dev
 
 1. **Navega al directorio del frontend:**
 
-   ``bash
+   ```bash
    cd frontend
 
 2. **Ejecuta las pruebas:** 
 
-``bash
-npm test
+   ```bash
+   npm test
 
 
 ### Backend
 
 1. **Navega al directorio del Backend:**
 
-   ``bash
-   cd backend
+      ```bash
+      cd backend
 
 
 2. **Ejecuta las pruebas:** 
 
-``bash
-npm test
+   ```bash
+   npm test
 
 
 
